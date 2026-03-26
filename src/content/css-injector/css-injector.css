@@ -1,0 +1,7 @@
+.yt-ext-active .ytp-heat-map-container {
+    visibility: visible !important;
+}
+
+.yt-ext-active .ytp-progress-bar {
+    visibility: hidden;
+}
