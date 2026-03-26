@@ -20,4 +20,5 @@ Primary goals:
 - Always use TDD. Split the big feature into the smallest ones and implement them step-by-step, writing tests at first.
 - Do not add new dependencies
 - Styles should be always in a separate files
+- Stick with kebab-case naming, if you see any file that doesn't stick to kebab-case, you are allowed to rename it, but also fix any path problems.
 
