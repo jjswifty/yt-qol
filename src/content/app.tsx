@@ -1,12 +1,12 @@
 import './app.css';
 import { useState } from 'react';
 
-function App() {
+const App = () => {
     const [visible, setVisible] = useState(false);
 
-    function toggle() {
+    const toggle = () => {
         setVisible(!visible);
-    }
+    };
 
     return (
         <div className="web-extend-content-container">

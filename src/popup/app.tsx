@@ -1,6 +1,6 @@
 import './app.css';
 
-function App() {
+const App = () => {
     return (
         <div className="content">
             <h1>WebExtend + React</h1>
