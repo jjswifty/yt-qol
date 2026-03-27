@@ -1,5 +1,5 @@
 import { describe, it, expect, rs, beforeEach } from '@rstest/core';
-import { getSettings, setSettings } from './settings';
+import { getSettings, setSettings } from '.';
 
 const mockGet = rs.fn();
 const mockSet = rs.fn();
